@@ -1,0 +1,72 @@
+<IfModule mod_expires.c>
+# Enable expirations
+ExpiresActive On
+# HTML
+ExpiresByType text/html "access plus 2 days"
+</IfModule>
+
+<IfModule mod_expires.c>
+# Enable expirations
+ExpiresActive On
+# My favicon
+ExpiresByType image/x-icon "access plus 1 year"
+# Images
+ExpiresByType image/gif "access plus 1 month"
+ExpiresByType image/png "access plus 1 month"
+ExpiresByType image/jpg "access plus 1 month"
+ExpiresByType image/jpeg "access plus 1 month"
+</IfModule>
+
+<IfModule mod_expires.c>
+# Enable expirations
+ExpiresActive On
+# CSS
+ExpiresByType text/css "access plus 1 month"
+</IfModule>
+
+<IfModule mod_headers.c>
+# Unset Server Signature header
+# Disable server signature
+ServerSignature Off
+# Unset Server Technology header
+Header unset X-Powered-By
+</IfModule>
+
+<IfModule mod_headers.c>
+# Set XSS Protection header
+Header set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+<IfModule mod_expires.c>
+# Enable expirations
+ExpiresActive On
+# Javascript
+ExpiresByType application/javascript "access plus 1 month"
+</IfModule>
+
+ErrorDocument 404$  /stable/media.php?p=error&p2=404 
+ErrorDocument 500$  cdn/error.php?error=500
+ErrorDocument 503$  cdn/error.php?error=503
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE anutun:ERRORPAGEerror
+# Do not remove this line or mod_rewrite rules and search engine friendly URLs will stop working
+Options +FollowSymLinks
+RewriteEngine on
+Rewritebase /stable2/
+
+RewriteRule ^layanan/([^/.]+)$  media.php?p=layanan&p2=$1 [QSA,L]
+RewriteRule ^wisata/([^/.]+)$  media.php?p=wisata&p2=$1 [QSA,L]
+RewriteRule ^ajaxp-([^/.]+)$  media.php?p=ajax&p2=$1 [QSA,L]
+
+RewriteRule ^keluar$  media.php?p=masuk&act=logout [L]
+RewriteRule ^masuk$  media.php?p=masuk&act=sign [L]
+RewriteRule ^dashboard$  media.php?p=dashboard&act=dashboard [L]
+
+
+RewriteRule ^panduan-pelanggan$ media.php?p=faq [L]
+RewriteRule ^panduan-pelanggan/([A-Za-z0-9-.]+)$  media.php?p=faq&p2=$1 [L]
+RewriteRule ^panduan-pelanggan/([A-Za-z0-9-.]+)/([A-Za-z0-9-.]+)$  media.php?p=faq&p2=$1&p3=$2 [L]
+
+RewriteRule ^search/([^/.]+)$  media.php?p=search&p2=$1 [QSA,L]
+RewriteRule ^category/([^/.]+)$  media.php?p=category&p2=$1 [QSA,L]
+RewriteRule ^produk/([^/.]+)$  media.php?p=produk&p2=$1 [QSA,L]
+RewriteRule ^ajaxp-([^/.]+)$  media.php?p=ajax&p2=$1 [QSA,L]
