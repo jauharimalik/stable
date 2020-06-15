@@ -1,0 +1,594 @@
+[15-May-2017 21:23:51 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/vanectro/public_html/admin/config.php on line 9
+[15-May-2017 22:15:22 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/vanectro/public_html/admin/config.php on line 9
+[15-May-2017 22:17:37 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/vanectro/public_html/admin/cek_login.php on line 18
+[15-May-2017 22:17:37 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/cek_login.php on line 19
+[16-May-2017 00:22:24 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 47
+[16-May-2017 00:22:24 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 49
+[16-May-2017 00:22:24 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 50
+[16-May-2017 00:22:24 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 51
+[16-May-2017 00:22:55 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 47
+[16-May-2017 00:22:55 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 49
+[16-May-2017 00:22:55 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 50
+[16-May-2017 00:22:55 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 51
+[16-May-2017 00:23:25 Asia/Jakarta] PHP Warning:  include(./../lib/config.php): failed to open stream: No such file or directory in /home/vanectro/public_html/admin/page/customers/index.php on line 4
+[16-May-2017 00:23:25 Asia/Jakarta] PHP Warning:  include(): Failed opening './../lib/config.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/vanectro/public_html/admin/page/customers/index.php on line 4
+[02-Jun-2017 14:26:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/index.php on line 2
+[02-Jun-2017 14:26:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[02-Jun-2017 14:26:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[02-Jun-2017 14:27:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[02-Jun-2017 14:27:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/index.php on line 2
+[02-Jun-2017 14:27:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[02-Jun-2017 21:27:40 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/cek_login.php on line 27
+[02-Jun-2017 14:27:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[02-Jun-2017 14:27:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[02-Jun-2017 21:27:44 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[02-Jun-2017 21:27:44 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[02-Jun-2017 21:27:44 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[02-Jun-2017 21:27:44 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[02-Jun-2017 14:27:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/index.php on line 2
+[02-Jun-2017 14:27:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[02-Jun-2017 14:28:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[02-Jun-2017 14:28:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/index.php on line 2
+[02-Jun-2017 14:28:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[02-Jun-2017 14:28:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/index.php on line 2
+[02-Jun-2017 21:28:53 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/cek_login.php on line 27
+[02-Jun-2017 14:28:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[02-Jun-2017 21:29:27 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[02-Jun-2017 21:29:27 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[02-Jun-2017 21:29:27 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[02-Jun-2017 21:29:27 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[02-Jun-2017 14:29:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/index.php on line 2
+[02-Jun-2017 21:29:38 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/cek_login.php on line 27
+[03-Jun-2017 07:01:04 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[03-Jun-2017 07:01:04 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[03-Jun-2017 07:01:04 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[03-Jun-2017 07:01:04 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[03-Jun-2017 07:04:06 Asia/Jakarta] PHP Notice:  Undefined variable: e in /home/vanectro/public_html/admin/page/order/index.php on line 505
+[03-Jun-2017 07:22:17 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[03-Jun-2017 07:22:17 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[03-Jun-2017 07:22:17 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[03-Jun-2017 07:22:17 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[05-Jun-2017 10:49:29 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/vanectro/public_html/admin/config.php on line 9
+[05-Jun-2017 10:51:20 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[05-Jun-2017 10:51:20 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[05-Jun-2017 10:51:20 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[05-Jun-2017 10:51:20 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[05-Jun-2017 13:33:04 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[05-Jun-2017 13:33:04 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[05-Jun-2017 13:33:04 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[05-Jun-2017 13:33:04 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[05-Jun-2017 13:34:01 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[05-Jun-2017 13:34:01 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[05-Jun-2017 13:34:01 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[05-Jun-2017 13:34:01 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[05-Jun-2017 13:36:15 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[05-Jun-2017 13:36:15 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[05-Jun-2017 13:36:15 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[05-Jun-2017 13:36:15 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[06-Jun-2017 09:04:58 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/index.php on line 69
+[06-Jun-2017 09:04:58 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/index.php on line 74
+[06-Jun-2017 09:04:58 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/index.php on line 76
+[06-Jun-2017 09:04:58 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/index.php on line 77
+[06-Jun-2017 09:04:58 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/index.php on line 77
+[06-Jun-2017 09:04:58 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/index.php on line 104
+[06-Jun-2017 09:04:58 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/index.php on line 107
+[06-Jun-2017 09:04:58 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/index.php on line 108
+[06-Jun-2017 09:04:58 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/page/dashboard/index.php on line 9
+[06-Jun-2017 09:05:02 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 69
+[06-Jun-2017 09:05:02 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 74
+[06-Jun-2017 09:05:02 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 76
+[06-Jun-2017 09:05:02 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 77
+[06-Jun-2017 09:05:02 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/home.php on line 77
+[06-Jun-2017 09:05:02 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 104
+[06-Jun-2017 09:05:02 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 107
+[06-Jun-2017 09:05:02 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 108
+[06-Jun-2017 09:05:04 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 69
+[06-Jun-2017 09:05:04 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 74
+[06-Jun-2017 09:05:04 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 76
+[06-Jun-2017 09:05:04 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 77
+[06-Jun-2017 09:05:04 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/home.php on line 77
+[06-Jun-2017 09:05:04 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 104
+[06-Jun-2017 09:05:04 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 107
+[06-Jun-2017 09:05:04 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 108
+[06-Jun-2017 09:05:06 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 69
+[06-Jun-2017 09:05:06 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 74
+[06-Jun-2017 09:05:06 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 76
+[06-Jun-2017 09:05:06 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 77
+[06-Jun-2017 09:05:06 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/home.php on line 77
+[06-Jun-2017 09:05:06 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 104
+[06-Jun-2017 09:05:06 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 107
+[06-Jun-2017 09:05:06 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 108
+[06-Jun-2017 09:05:24 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 69
+[06-Jun-2017 09:05:24 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 74
+[06-Jun-2017 09:05:24 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 76
+[06-Jun-2017 09:05:24 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 77
+[06-Jun-2017 09:05:24 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/home.php on line 77
+[06-Jun-2017 09:05:24 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 104
+[06-Jun-2017 09:05:24 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 107
+[06-Jun-2017 09:05:24 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 108
+[06-Jun-2017 09:05:25 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 69
+[06-Jun-2017 09:05:25 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 74
+[06-Jun-2017 09:05:25 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 76
+[06-Jun-2017 09:05:25 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 77
+[06-Jun-2017 09:05:25 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/home.php on line 77
+[06-Jun-2017 09:05:25 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 104
+[06-Jun-2017 09:05:25 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 107
+[06-Jun-2017 09:05:25 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 108
+[06-Jun-2017 09:05:26 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 69
+[06-Jun-2017 09:05:26 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 74
+[06-Jun-2017 09:05:26 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 76
+[06-Jun-2017 09:05:26 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 77
+[06-Jun-2017 09:05:26 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/home.php on line 77
+[06-Jun-2017 09:05:26 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 104
+[06-Jun-2017 09:05:26 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 107
+[06-Jun-2017 09:05:26 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 108
+[06-Jun-2017 09:05:30 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 69
+[06-Jun-2017 09:05:30 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 74
+[06-Jun-2017 09:05:30 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 76
+[06-Jun-2017 09:05:30 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 77
+[06-Jun-2017 09:05:30 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/home.php on line 77
+[06-Jun-2017 09:05:30 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 104
+[06-Jun-2017 09:05:30 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 107
+[06-Jun-2017 09:05:30 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 108
+[06-Jun-2017 09:05:30 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[06-Jun-2017 09:05:30 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[06-Jun-2017 09:05:30 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[06-Jun-2017 09:05:30 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[06-Jun-2017 12:30:13 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[06-Jun-2017 12:30:13 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[06-Jun-2017 12:30:13 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[06-Jun-2017 12:30:13 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[06-Jun-2017 14:48:59 Asia/Jakarta] PHP Notice:  Undefined variable: e in /home/vanectro/public_html/admin/page/order/index.php on line 505
+[06-Jun-2017 15:16:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[06-Jun-2017 15:17:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[06-Jun-2017 15:18:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[06-Jun-2017 15:18:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[06-Jun-2017 22:18:31 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[06-Jun-2017 22:18:31 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[06-Jun-2017 22:18:31 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[06-Jun-2017 22:18:31 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[06-Jun-2017 15:18:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/index.php on line 2
+[06-Jun-2017 15:18:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[06-Jun-2017 22:18:40 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/cek_login.php on line 27
+[06-Jun-2017 15:18:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[06-Jun-2017 15:18:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[06-Jun-2017 15:23:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[06-Jun-2017 15:32:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[06-Jun-2017 15:33:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[06-Jun-2017 15:36:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[06-Jun-2017 15:36:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[06-Jun-2017 15:55:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[06-Jun-2017 15:55:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[07-Jun-2017 10:03:20 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[07-Jun-2017 10:03:20 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[07-Jun-2017 10:03:20 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[07-Jun-2017 10:03:20 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[07-Jun-2017 11:20:31 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/vanectro/public_html/admin/config.php on line 9
+[07-Jun-2017 12:36:33 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[07-Jun-2017 12:36:33 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[07-Jun-2017 12:36:33 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[07-Jun-2017 12:36:33 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[08-Jun-2017 11:24:42 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[08-Jun-2017 11:24:42 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[08-Jun-2017 11:24:42 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[08-Jun-2017 11:24:42 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[08-Jun-2017 06:06:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/index.php on line 2
+[08-Jun-2017 06:06:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[08-Jun-2017 13:06:53 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/cek_login.php on line 27
+[08-Jun-2017 06:06:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 06:07:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 06:09:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 06:10:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 06:10:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 06:14:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 06:23:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 13:23:33 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[08-Jun-2017 13:23:33 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[08-Jun-2017 13:23:33 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[08-Jun-2017 13:23:33 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[08-Jun-2017 06:28:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/index.php on line 2
+[08-Jun-2017 13:28:25 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/index.php on line 69
+[08-Jun-2017 13:28:25 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/index.php on line 74
+[08-Jun-2017 13:28:25 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/index.php on line 76
+[08-Jun-2017 13:28:25 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/index.php on line 77
+[08-Jun-2017 13:28:25 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/index.php on line 77
+[08-Jun-2017 13:28:25 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/index.php on line 104
+[08-Jun-2017 13:28:25 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/index.php on line 107
+[08-Jun-2017 13:28:25 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/index.php on line 108
+[08-Jun-2017 13:28:25 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/page/dashboard/index.php on line 9
+[08-Jun-2017 06:28:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 13:28:28 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 69
+[08-Jun-2017 13:28:28 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 74
+[08-Jun-2017 13:28:28 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 76
+[08-Jun-2017 13:28:28 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 77
+[08-Jun-2017 13:28:28 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/home.php on line 77
+[08-Jun-2017 13:28:28 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 104
+[08-Jun-2017 13:28:28 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 107
+[08-Jun-2017 13:28:28 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 108
+[08-Jun-2017 06:28:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 13:28:37 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 69
+[08-Jun-2017 13:28:37 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 74
+[08-Jun-2017 13:28:37 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 76
+[08-Jun-2017 13:28:37 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 77
+[08-Jun-2017 13:28:37 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/home.php on line 77
+[08-Jun-2017 13:28:37 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 104
+[08-Jun-2017 13:28:37 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 107
+[08-Jun-2017 13:28:37 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 108
+[08-Jun-2017 13:28:37 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[08-Jun-2017 13:28:37 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[08-Jun-2017 13:28:37 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[08-Jun-2017 13:28:37 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[08-Jun-2017 06:28:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/index.php on line 2
+[08-Jun-2017 06:28:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[08-Jun-2017 13:28:45 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/cek_login.php on line 27
+[08-Jun-2017 06:28:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 06:28:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 06:28:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 06:29:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 06:29:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 08:38:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/index.php on line 2
+[08-Jun-2017 08:38:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 08:38:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 08:38:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 08:38:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 08:38:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 08:39:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 08:39:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 08:46:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[08-Jun-2017 08:46:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[09-Jun-2017 04:15:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/index.php on line 2
+[09-Jun-2017 04:15:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[09-Jun-2017 11:16:10 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/cek_login.php on line 27
+[09-Jun-2017 04:16:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[09-Jun-2017 04:18:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[09-Jun-2017 04:19:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[09-Jun-2017 04:19:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[09-Jun-2017 11:19:40 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[09-Jun-2017 11:19:40 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[09-Jun-2017 11:19:40 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[09-Jun-2017 11:19:40 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[09-Jun-2017 04:31:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[09-Jun-2017 04:31:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[09-Jun-2017 04:31:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[09-Jun-2017 06:06:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[09-Jun-2017 06:06:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[09-Jun-2017 13:06:13 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/cek_login.php on line 27
+[09-Jun-2017 06:06:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[09-Jun-2017 06:15:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[09-Jun-2017 06:15:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[09-Jun-2017 06:16:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[09-Jun-2017 10:23:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/home.php on line 2
+[09-Jun-2017 10:23:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[10-Jun-2017 02:08:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[10-Jun-2017 05:51:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/login.php on line 2
+[11-Jun-2017 21:24:47 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[11-Jun-2017 21:25:19 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[12-Jun-2017 06:38:29 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[12-Jun-2017 09:31:34 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 55
+[12-Jun-2017 09:31:34 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 57
+[12-Jun-2017 09:31:34 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 58
+[12-Jun-2017 09:31:34 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 59
+[12-Jun-2017 10:21:28 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/ulasan/index.php on line 197
+[12-Jun-2017 10:22:25 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/ulasan/index.php on line 197
+[12-Jun-2017 10:33:43 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/ulasan/index.php on line 197
+[12-Jun-2017 10:33:55 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/ulasan/index.php on line 197
+[12-Jun-2017 11:04:53 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/ulasan/index.php on line 197
+[12-Jun-2017 11:04:57 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/ulasan/index.php on line 197
+[12-Jun-2017 11:05:00 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/ulasan/index.php on line 197
+[12-Jun-2017 11:05:01 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/ulasan/index.php on line 197
+[12-Jun-2017 11:05:06 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/ulasan/index.php on line 197
+[12-Jun-2017 11:41:48 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[12-Jun-2017 11:41:48 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[12-Jun-2017 11:41:48 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[12-Jun-2017 11:41:48 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[12-Jun-2017 11:42:38 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[12-Jun-2017 11:42:38 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[12-Jun-2017 11:42:38 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[12-Jun-2017 11:42:38 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[12-Jun-2017 12:11:31 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/ulasan/index.php on line 197
+[12-Jun-2017 12:12:15 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[12-Jun-2017 12:12:15 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[12-Jun-2017 12:12:15 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[12-Jun-2017 12:12:15 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[13-Jun-2017 09:53:32 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[13-Jun-2017 09:53:32 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[13-Jun-2017 09:53:32 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[13-Jun-2017 09:53:32 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[13-Jun-2017 10:53:52 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[13-Jun-2017 10:53:52 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[13-Jun-2017 10:53:52 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[13-Jun-2017 10:53:52 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[13-Jun-2017 12:51:00 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[13-Jun-2017 12:51:00 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[13-Jun-2017 12:51:00 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[13-Jun-2017 12:51:00 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[14-Jun-2017 11:00:33 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[14-Jun-2017 11:00:33 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[14-Jun-2017 11:00:33 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[14-Jun-2017 11:00:33 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[14-Jun-2017 12:22:22 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[14-Jun-2017 12:22:22 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[14-Jun-2017 12:22:22 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[14-Jun-2017 12:22:22 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[15-Jun-2017 16:27:14 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/index.php on line 69
+[15-Jun-2017 16:27:14 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/index.php on line 74
+[15-Jun-2017 16:27:14 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/index.php on line 76
+[15-Jun-2017 16:27:14 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/index.php on line 77
+[15-Jun-2017 16:27:14 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/index.php on line 77
+[15-Jun-2017 16:27:14 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/index.php on line 104
+[15-Jun-2017 16:27:14 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/index.php on line 107
+[15-Jun-2017 16:27:14 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/index.php on line 108
+[15-Jun-2017 16:27:14 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/page/dashboard/index.php on line 9
+[15-Jun-2017 16:27:16 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 69
+[15-Jun-2017 16:27:16 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 74
+[15-Jun-2017 16:27:16 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 76
+[15-Jun-2017 16:27:16 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 77
+[15-Jun-2017 16:27:16 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/home.php on line 77
+[15-Jun-2017 16:27:16 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 104
+[15-Jun-2017 16:27:16 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 107
+[15-Jun-2017 16:27:16 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 108
+[15-Jun-2017 16:27:19 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 69
+[15-Jun-2017 16:27:19 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 74
+[15-Jun-2017 16:27:19 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 76
+[15-Jun-2017 16:27:19 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 77
+[15-Jun-2017 16:27:19 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/home.php on line 77
+[15-Jun-2017 16:27:19 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 104
+[15-Jun-2017 16:27:19 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 107
+[15-Jun-2017 16:27:19 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 108
+[15-Jun-2017 16:27:26 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 69
+[15-Jun-2017 16:27:26 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 74
+[15-Jun-2017 16:27:26 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 76
+[15-Jun-2017 16:27:26 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 77
+[15-Jun-2017 16:27:26 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/home.php on line 77
+[15-Jun-2017 16:27:26 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/home.php on line 104
+[15-Jun-2017 16:27:26 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/home.php on line 107
+[15-Jun-2017 16:27:26 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/home.php on line 108
+[15-Jun-2017 16:27:26 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[15-Jun-2017 16:27:26 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[15-Jun-2017 16:27:26 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[15-Jun-2017 16:27:26 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[16-Jun-2017 14:21:20 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[16-Jun-2017 14:21:20 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[16-Jun-2017 14:21:20 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[16-Jun-2017 14:21:20 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[17-Jun-2017 10:59:02 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[17-Jun-2017 10:59:02 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[17-Jun-2017 10:59:02 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[17-Jun-2017 10:59:02 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[17-Jun-2017 13:22:23 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[17-Jun-2017 13:22:23 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[17-Jun-2017 13:22:23 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[17-Jun-2017 13:22:23 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[19-Jun-2017 12:13:38 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[19-Jun-2017 12:13:38 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[19-Jun-2017 12:13:38 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[19-Jun-2017 12:13:38 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[20-Jun-2017 11:05:51 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[20-Jun-2017 11:05:51 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[20-Jun-2017 11:05:51 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[20-Jun-2017 11:05:51 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[22-Jun-2017 11:43:48 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[22-Jun-2017 11:43:48 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[22-Jun-2017 11:43:48 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[22-Jun-2017 11:43:48 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[24-Jun-2017 23:19:47 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[24-Jun-2017 23:20:00 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[24-Jun-2017 23:20:06 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[06-Jul-2017 14:47:45 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[06-Jul-2017 14:47:45 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[06-Jul-2017 14:47:45 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[06-Jul-2017 14:47:45 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[07-Jul-2017 19:18:48 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[07-Jul-2017 19:19:12 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[07-Jul-2017 19:20:44 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[12-Jul-2017 09:39:19 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[12-Jul-2017 09:39:20 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[12-Jul-2017 09:39:20 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[12-Jul-2017 09:39:20 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[12-Jul-2017 16:16:24 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/index.php on line 69
+[12-Jul-2017 16:16:24 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/index.php on line 74
+[12-Jul-2017 16:16:24 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/index.php on line 76
+[12-Jul-2017 16:16:24 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/index.php on line 77
+[12-Jul-2017 16:16:24 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/vanectro/public_html/admin/index.php on line 77
+[12-Jul-2017 16:16:24 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/index.php on line 104
+[12-Jul-2017 16:16:24 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/index.php on line 107
+[12-Jul-2017 16:16:24 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/index.php on line 108
+[12-Jul-2017 16:16:24 Asia/Jakarta] PHP Notice:  Undefined index: fullname in /home/vanectro/public_html/admin/page/dashboard/index.php on line 9
+[13-Jul-2017 08:54:54 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[13-Jul-2017 08:54:54 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[13-Jul-2017 08:54:54 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[13-Jul-2017 08:54:54 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[17-Jul-2017 10:24:09 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[17-Jul-2017 10:24:09 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[17-Jul-2017 10:24:09 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[17-Jul-2017 10:24:09 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[18-Jul-2017 10:06:18 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[18-Jul-2017 10:06:18 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[18-Jul-2017 10:06:18 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[18-Jul-2017 10:06:18 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[18-Jul-2017 11:06:32 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[18-Jul-2017 11:06:32 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[18-Jul-2017 11:06:32 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[18-Jul-2017 11:06:32 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[18-Jul-2017 11:37:42 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[18-Jul-2017 11:37:42 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[18-Jul-2017 11:37:42 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[18-Jul-2017 11:37:42 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[19-Jul-2017 10:07:38 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[19-Jul-2017 10:07:38 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[19-Jul-2017 10:07:38 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[19-Jul-2017 10:07:38 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[19-Jul-2017 13:34:23 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[19-Jul-2017 13:34:23 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[19-Jul-2017 13:34:23 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[19-Jul-2017 13:34:23 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[20-Jul-2017 08:25:31 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[20-Jul-2017 08:25:31 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[20-Jul-2017 08:25:31 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[20-Jul-2017 08:25:31 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[20-Jul-2017 10:13:49 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[20-Jul-2017 10:13:49 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[20-Jul-2017 10:13:49 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[20-Jul-2017 10:13:49 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[20-Jul-2017 11:58:17 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[20-Jul-2017 12:00:09 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[20-Jul-2017 12:01:02 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[20-Jul-2017 12:01:17 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[20-Jul-2017 12:01:38 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[20-Jul-2017 14:43:34 Asia/Jakarta] PHP Notice:  Undefined variable: e in /home/vanectro/public_html/admin/page/order/index.php on line 505
+[20-Jul-2017 14:45:51 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[20-Jul-2017 14:45:51 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[20-Jul-2017 14:45:51 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[20-Jul-2017 14:45:51 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[27-Jul-2017 08:58:45 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[27-Jul-2017 08:58:45 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[27-Jul-2017 08:58:45 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[27-Jul-2017 08:58:45 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[28-Jul-2017 13:27:56 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[28-Jul-2017 13:27:57 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[28-Jul-2017 13:27:57 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[28-Jul-2017 13:27:57 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[31-Jul-2017 20:09:26 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[31-Jul-2017 20:09:26 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[31-Jul-2017 20:09:26 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[31-Jul-2017 20:09:26 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[02-Aug-2017 07:37:04 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[02-Aug-2017 07:37:04 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[02-Aug-2017 07:37:04 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[02-Aug-2017 07:37:04 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[02-Aug-2017 08:01:13 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[02-Aug-2017 08:01:13 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[02-Aug-2017 08:01:13 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[02-Aug-2017 08:01:13 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[03-Aug-2017 10:09:57 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[03-Aug-2017 10:09:57 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[03-Aug-2017 10:09:57 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[03-Aug-2017 10:09:57 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[04-Aug-2017 08:57:08 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[04-Aug-2017 08:57:08 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[04-Aug-2017 08:57:08 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[04-Aug-2017 08:57:08 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[04-Aug-2017 11:16:37 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[04-Aug-2017 11:18:02 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[04-Aug-2017 11:18:05 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[07-Aug-2017 07:52:54 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[07-Aug-2017 07:52:54 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[07-Aug-2017 07:52:54 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[07-Aug-2017 07:52:54 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[08-Aug-2017 11:25:22 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[08-Aug-2017 11:25:22 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[08-Aug-2017 11:25:22 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[08-Aug-2017 11:25:22 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[11-Aug-2017 09:47:02 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[11-Aug-2017 09:47:02 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[11-Aug-2017 09:47:02 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[11-Aug-2017 09:47:02 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[12-Aug-2017 09:16:37 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[12-Aug-2017 09:16:37 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[12-Aug-2017 09:16:37 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[12-Aug-2017 09:16:37 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[14-Aug-2017 08:45:57 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[14-Aug-2017 08:45:57 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[14-Aug-2017 08:45:57 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[14-Aug-2017 08:45:57 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[14-Aug-2017 14:48:30 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[14-Aug-2017 14:48:30 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[14-Aug-2017 14:48:30 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[14-Aug-2017 14:48:30 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[15-Aug-2017 08:17:54 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[15-Aug-2017 08:17:54 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[15-Aug-2017 08:17:54 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[15-Aug-2017 08:17:54 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[16-Aug-2017 08:08:55 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[16-Aug-2017 08:08:55 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[16-Aug-2017 08:08:55 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[16-Aug-2017 08:08:55 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[18-Aug-2017 07:53:11 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[18-Aug-2017 07:53:11 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[18-Aug-2017 07:53:11 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[18-Aug-2017 07:53:11 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[23-Aug-2017 14:25:25 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[23-Aug-2017 14:25:25 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[23-Aug-2017 14:25:25 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[23-Aug-2017 14:25:25 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[24-Aug-2017 12:14:42 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[24-Aug-2017 12:14:50 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[24-Aug-2017 12:15:20 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[24-Aug-2017 12:20:48 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[24-Aug-2017 12:21:39 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[24-Aug-2017 12:23:20 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[24-Aug-2017 12:23:48 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[24-Aug-2017 12:23:57 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[24-Aug-2017 12:24:38 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[24-Aug-2017 12:24:54 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[24-Aug-2017 12:27:14 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[29-Aug-2017 20:02:54 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[29-Aug-2017 20:02:54 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[29-Aug-2017 20:02:54 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[29-Aug-2017 20:02:54 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[30-Aug-2017 08:08:43 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[30-Aug-2017 08:08:43 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[30-Aug-2017 08:08:43 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[30-Aug-2017 08:08:43 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[05-Sep-2017 09:41:52 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[05-Sep-2017 09:41:52 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[05-Sep-2017 09:41:52 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[05-Sep-2017 09:41:52 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[10-Sep-2017 22:48:28 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[10-Sep-2017 22:48:28 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[10-Sep-2017 22:48:28 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[10-Sep-2017 22:48:28 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[12-Sep-2017 10:52:01 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[12-Sep-2017 10:52:01 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[12-Sep-2017 10:52:01 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[12-Sep-2017 10:52:01 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[12-Sep-2017 10:52:22 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[12-Sep-2017 10:52:22 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[12-Sep-2017 10:52:22 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[12-Sep-2017 10:52:22 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[13-Sep-2017 10:35:31 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[13-Sep-2017 10:35:31 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[13-Sep-2017 10:35:31 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[13-Sep-2017 10:35:31 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[13-Sep-2017 11:27:30 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[13-Sep-2017 11:27:30 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[13-Sep-2017 11:27:30 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[13-Sep-2017 11:27:30 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[22-Sep-2017 07:39:08 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[22-Sep-2017 07:39:08 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[22-Sep-2017 07:39:08 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[22-Sep-2017 07:39:08 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[03-Oct-2017 11:03:29 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[03-Oct-2017 11:03:29 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[03-Oct-2017 11:03:29 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[03-Oct-2017 11:03:29 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[04-Oct-2017 13:36:13 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[04-Oct-2017 13:36:13 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[04-Oct-2017 13:36:13 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[04-Oct-2017 13:36:13 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[06-Oct-2017 09:04:08 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[06-Oct-2017 09:04:08 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[06-Oct-2017 09:04:08 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[06-Oct-2017 09:04:08 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[12-Oct-2017 08:08:07 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[12-Oct-2017 08:08:07 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[12-Oct-2017 08:08:07 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[12-Oct-2017 08:08:07 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[13-Oct-2017 15:04:18 Asia/Jakarta] PHP Notice:  Undefined index: act in /home/vanectro/public_html/admin/page/order/index.php on line 4
+[20-Oct-2017 10:44:08 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[20-Oct-2017 10:44:08 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[20-Oct-2017 10:45:59 Asia/Jakarta] PHP Notice:  Undefined variable: e in /home/vanectro/public_html/admin/page/order/index.php on line 505
+[23-Oct-2017 07:55:15 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[23-Oct-2017 07:55:15 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[23-Oct-2017 07:55:15 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[23-Oct-2017 07:55:15 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63
+[28-Oct-2017 09:27:53 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[28-Oct-2017 09:29:32 Asia/Jakarta] PHP Notice:  Undefined variable: e in /home/vanectro/public_html/admin/page/order/index.php on line 505
+[01-Nov-2017 15:09:19 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[01-Nov-2017 15:09:29 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[01-Nov-2017 15:09:37 Asia/Jakarta] PHP Notice:  Undefined index: order_id in /home/vanectro/public_html/admin/page/order/index.php on line 1010
+[02-Nov-2017 17:04:50 Asia/Jakarta] PHP Notice:  Undefined variable: e in /home/vanectro/public_html/admin/page/order/index.php on line 505
+[06-Nov-2017 10:15:30 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/content.php on line 59
+[06-Nov-2017 10:15:31 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/vanectro/public_html/admin/content.php on line 61
+[06-Nov-2017 10:15:31 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/vanectro/public_html/admin/content.php on line 62
+[06-Nov-2017 10:15:31 Asia/Jakarta] PHP Notice:  Undefined index: avatar in /home/vanectro/public_html/admin/content.php on line 63

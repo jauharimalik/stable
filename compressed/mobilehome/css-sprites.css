@@ -1,0 +1,26 @@
+.vh1{background:url('<?php echo $c_url;?>/compressed/mobilehome/home.webp')no-repeat;display:inline-block;}
+.vh-download-daftar-harga{background-position:-130px -0px;}
+.w70px,.vhico3{width:70px;}
+.h70px, .vhico3{height:70px;}
+.vh-katalog-canon{background-position:-520px -0px;}
+.vh-katalog-paket{background-position:-650px -0px;}
+.vh-katalog-rekondisi{background-position:-780px -0px;}
+.vh-katalog-service{background-position:-910px -0px;}
+.vh-katalog-sewa{background-position:-1040px -0px;}
+.vh-katalog-sparepart{background-position:-1170px -0px;}
+.vh-katalog-warna{background-position:-1300px -0px;}
+.vh-katalog-xerox{background-position:-1430px -0px;}
+.vhico1, .vhico2 {zoom :.48;}
+.w130px, .vhico1, .vhico2{width:130px;}
+.h130px, .vhico1, .vhico2{height:130px;}
+.vh-canon{background-position: 0px -0px;}
+.vh-fujixerox{background-position:-260px -0px;}
+.vh-harga{ background-position:-390px -0px;}
+.vh-lainnya{background-position:-1560px -0px;}
+.vh-paket{background-position:-1690px -0px;}
+.vh-rekondisi{background-position:-1820px -0px;}
+.vh-service{background-position:-1950px -0px;}
+.vh-sewa{background-position:-2080px -0px;}
+.vh-sparepart{background-position:-2210px -0px;}
+.vh-warna{background-position:-2393px -0px;}
+

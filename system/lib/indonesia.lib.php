@@ -1,0 +1,167 @@
+<?php
+function rupiah($angka){
+	$rupiah="";
+	$rp=strlen($angka);
+	while ($rp>3)
+	{
+		$rupiah = ".". substr($angka,-3). $rupiah;
+		$s=strlen($angka) - 3;
+		$angka=substr($angka,0,$s);
+		$rp=strlen($angka);
+	}
+	$rupiah = $angka . $rupiah . ",-";
+	return $rupiah;
+}
+
+function tanggalIndonesia($data){
+	$tahunSelesai = substr($data,0,4);
+	$bulanSelesai = substr($data,5,2);
+	$tanggalSelesai = substr($data,8,2);
+	$dataIndonesia = $tanggalSelesai . "/" . $bulanSelesai . "/" . $tahunSelesai;
+	return $dataIndonesia;
+}
+
+function tgl_indo($tanggal){
+	$bulan = array (
+		1 =>  'Januari',
+		2 => 'Februari',
+		3 => 'Maret',
+		4 => 'April',
+		5 => 'Mei',
+		6 => 'Juni',
+		7 => 'Juli',
+		8 => 'Agustus',
+		9 => 'September',
+		10 => 'Oktober',
+		11 => 'November',
+		12 => 'Desember'
+	);
+	$pecahkan = explode('-', $tanggal);
+	return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+}
+
+function tanggalIndonesiaString($data){
+	$tahunSelesai = substr($data,0,4);
+	$bulanSelesai = substr($data,5,2);
+	$tanggalSelesai = substr($data,8,2);
+	if($bulanSelesai==1){
+		$nama_bulan = "Januari";
+	}elseif($bulanSelesai==2){
+		$nama_bulan = "Februari";
+	}elseif($bulanSelesai==3){
+		$nama_bulan = "Maret";
+	}elseif($bulanSelesai==4){
+		$nama_bulan = "April";
+	}elseif($bulanSelesai==5){
+		$nama_bulan = "Mei";
+	}elseif($bulanSelesai==6){
+		$nama_bulan = "Juni";
+	}elseif($bulanSelesai==7){
+		$nama_bulan = "Juli";
+	}elseif($bulanSelesai==8){
+		$nama_bulan = "Agustus";
+	}elseif($bulanSelesai==9){
+		$nama_bulan = "September";
+	}elseif($bulanSelesai==10){
+		$nama_bulan = "Oktober";
+	}elseif($bulanSelesai==11){
+		$nama_bulan = "November";
+	}elseif($bulanSelesai==12){
+		$nama_bulan = "Desember";
+	}
+	
+	
+	
+	$dataIndonesia = $tanggalSelesai . " " . $nama_bulan . " " . $tahunSelesai;
+	return $dataIndonesia;
+}
+
+
+
+function autoInc($field, $tabel){
+
+$query = "select max($field) from $tabel";
+$execQuery = mysql_query($query);
+$hasil = mysql_fetch_row($execQuery);
+$nomor = $hasil[0];
+return $nomor;
+}
+
+function cekAda($field, $tabel){
+
+$query = "select max($field) from $tabel";
+$execQuery = mysql_query($query);
+$hasil = mysql_fetch_row($execQuery);
+$nomor = $hasil[0];
+return $nomor;
+}
+
+
+function bulanIndonesia($bulan){
+
+	if($bulan==1) $bulanId = 'Januari';
+	elseif ($bulan==2)  $bulanId = 'Februari';
+	elseif ($bulan==3)  $bulanId = 'Maret';
+	elseif ($bulan==4)  $bulanId = 'April';
+	elseif($bulan==5)  $bulanId = 'Mei';
+	elseif ($bulan==6)  $bulanId = 'Juni';
+	elseif ($bulan==7)  $bulanId = 'Juli';
+	elseif ($bulan==8)  $bulanId = 'Agustus';
+	elseif ($bulan==9)  $bulanId = 'September';
+	elseif ($bulan==10)  $bulanId = 'Oktober';
+	elseif ($bulan==11)  $bulanId = 'November';
+	elseif ($bulan==12)  $bulanId = 'Desember';
+
+	return $bulanId;
+}
+
+function hari($hari){
+	switch($hari){
+		case 'Sun':
+			$hari_ini = "Minggu";
+		break;
+		
+		case 'Mon':			
+			$hari_ini = "Senin";
+		break;
+ 
+		case 'Tue':
+			$hari_ini = "Selasa";
+		break;
+ 
+		case 'Wed':
+			$hari_ini = "Rabu";
+		break;
+ 
+		case 'Thu':
+			$hari_ini = "Kamis";
+		break;
+ 
+		case 'Fri':
+			$hari_ini = "Jumat";
+		break;
+ 
+		case 'Sat':
+			$hari_ini = "Sabtu";
+		break;
+		
+		default:
+			$hari_ini = "Tidak di ketahui";		
+		break;
+	}
+ 
+	return "<b>" . $hari_ini . "</b>";
+}
+function basegambar($gambar){
+  $gb =  base64_encode(file_get_contents($gambar));
+  return $gb;
+}	
+function splitTextByWords($str, $words = 10){
+    $arr = preg_split("/[\s]+/", $str, $words+1);
+    $arr = array_slice($arr, 0, $words);
+    return join(' ', $arr);
+}
+
+function hurufbesar($a){$a=strtoupper(strtolower($a)); return $a;}
+function hurufkapital($a){$a=ucwords(strtolower($a)); return $a;}
+function hurufkecil($a){$a=strtolower($a); return $a;}

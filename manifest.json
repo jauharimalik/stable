@@ -1,0 +1,23 @@
+{
+	"gcm_sender_id":"821478403717",
+	"theme_color":"#083c76",
+	"background_color":"#fff",
+	"display":"standalone",
+	"name":"Vanectro - Jual Mesin Fotocopy",
+	"description": "Jual Mesin Fotocopy",	
+	"orientation": "portrait",  	
+	"start_url":"/",
+	"lang": "id",	
+	"gcm_user_visible_only":true,
+	"short_name":"Vanectro.com",
+	"icons":[
+		{"sizes":"36x36","src":"https://www.vanectro.com/cdn/images/icon/logo_36.png","type":"image/png"},
+		{"sizes":"48x48","src":"https://www.vanectro.com/cdn/images/icon/logo_48.png","type":"image/png"},
+		{"sizes":"72x72","src":"https://www.vanectro.com/cdn/images/icon/logo_72.png","type":"image/png"},
+		{"sizes":"96x96","src":"https://www.vanectro.com/cdn/images/icon/logo_96.png","type":"image/png"},
+		{"sizes":"128x128","src":"https://www.vanectro.com/cdn/images/icon/logo_128.png","type":"image/png"},
+		{"sizes":"144x144","src":"https://www.vanectro.com/cdn/images/icon/logo_144.png","type":"image/png"},
+		{"sizes":"192x192","src":"https://www.vanectro.com/cdn/images/icon/logo_192.png","type":"image/png"},
+		{"sizes":"512x512","src":"https://www.vanectro.com/cdn/images/icon/logo_512.png","type":"image/png"}
+	]
+}

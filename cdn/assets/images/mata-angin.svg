@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.777 91.873">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.6;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 4 4;
+      }
+
+      .cls-5 {
+        fill: #5a5a5a;
+        font-size: 11px;
+        font-family: WorkSans-Medium, Work Sans;
+        font-weight: 500;
+        letter-spacing: 0.01em;
+      }
+    </style>
+  </defs>
+  <g id="mata-angin" transform="translate(14786.707 2089.895)">
+    <g id="Group_1333" data-name="Group 1333" class="cls-1" transform="translate(-16076 -2927)">
+      <path id="Path_188" data-name="Path 188" class="cls-2" d="M25.38,50.76h0A25.379,25.379,0,0,0,0,25.38H0A25.379,25.379,0,0,0,25.38,0h0A25.379,25.379,0,0,0,50.76,25.38h0A25.379,25.379,0,0,0,25.38,50.76Z" transform="translate(1290.302 858.224)"/>
+      <circle id="Ellipse_117" data-name="Ellipse 117" class="cls-3" cx="5.23" cy="5.23" r="5.23" transform="translate(1310.452 878.374)"/>
+      <g id="Group_907" data-name="Group 907" transform="translate(1290 857.922)">
+        <circle id="Ellipse_118" data-name="Ellipse 118" class="cls-4" cx="18.16" cy="18.16" r="18.16" transform="translate(0 25.681) rotate(-45)"/>
+      </g>
+      <text id="S" class="cls-5" transform="translate(1312.248 925.978)"><tspan x="0" y="0">S</tspan></text>
+      <text id="N" class="cls-5" transform="translate(1312.248 847.105)"><tspan x="0" y="0">N</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW ERRORPAGEerror:anutun
+Options +FollowSymLinks
+RewriteEngine on
+RewriteBase /system/
+RewriteRule ^(.*)\.mgb $1.php [QSA,L]
+RewriteRule ^(.*)\.ws $1.php [QSA,L]
+RewriteRule ([A-Za-z0-9-.]+)$ home.php?&p=$1 [QSA,L]

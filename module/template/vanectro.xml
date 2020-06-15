@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<template>
+	<template_name>vanectro</template_name>
+	<template_folder>vanectro</template_folder>
+	<template_version>1.0</template_version>
+	<template_link>http://vanectro.com/</template_link>
+	<template_image>ss</template_image>
+	<author>Warpsite</author>
+	<author_email>jauharimalikupil@vanectro.com</author_email>
+	<author_link>http://vanectro.com</author_link>
+	<date_create>16 Oktober 2015</date_create>
+	<description>Vanectro Template : Free Responsive For Warpsite Framework - Online Store</description>
+</template>

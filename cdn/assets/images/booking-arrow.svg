@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.727 4.27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="booking-arrow" transform="translate(-845.492 -716.346)">
+    <line id="XMLID_21_" class="cls-1" x1="4.168" y2="2.879" transform="translate(850.355 717.041)"/>
+    <line id="XMLID_20_" class="cls-1" x2="4.168" y2="2.879" transform="translate(846.188 717.041)"/>
+  </g>
+</svg>

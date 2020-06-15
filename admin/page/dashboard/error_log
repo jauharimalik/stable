@@ -1,0 +1,24 @@
+[16-May-2017 11:40:09 Asia/Jakarta] PHP Warning:  copy(): Filename cannot be empty in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 42
+[16-May-2017 11:40:09 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 44
+[16-May-2017 11:40:09 Asia/Jakarta] PHP Warning:  Division by zero in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 45
+[16-May-2017 11:40:09 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 46
+[16-May-2017 11:40:09 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 47
+[16-May-2017 11:40:09 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 48
+[16-May-2017 11:40:09 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 49
+[16-May-2017 11:40:09 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 50
+[16-May-2017 11:40:09 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 51
+[16-May-2017 11:40:09 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 52
+[16-May-2017 11:40:09 Asia/Jakarta] PHP Notice:  Undefined variable: tipemesin in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 71
+[09-Jun-2017 04:18:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 2
+[09-Jun-2017 06:15:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 2
+[16-Jun-2017 05:47:32 Asia/Jakarta] PHP Notice:  Undefined variable: tipemesin in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 33
+[08-Aug-2017 10:55:06 Asia/Jakarta] PHP Warning:  copy(): Filename cannot be empty in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 44
+[08-Aug-2017 10:55:06 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 46
+[08-Aug-2017 10:55:06 Asia/Jakarta] PHP Warning:  Division by zero in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 47
+[08-Aug-2017 10:55:06 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 48
+[08-Aug-2017 10:55:06 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 49
+[08-Aug-2017 10:55:06 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 50
+[08-Aug-2017 10:55:06 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 51
+[08-Aug-2017 10:55:06 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 52
+[08-Aug-2017 10:55:06 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 53
+[08-Aug-2017 10:55:06 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/vanectro/public_html/admin/page/dashboard/proses.php on line 54

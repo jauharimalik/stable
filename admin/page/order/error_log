@@ -1,0 +1,7 @@
+[02-Jun-2017 14:29:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/page/order/proses.php on line 2
+[02-Jun-2017 14:29:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/page/order/proses.php on line 2
+[02-Jun-2017 14:30:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vanectro/public_html/admin/page/order/proses.php on line 2
+[05-Jun-2017 13:34:25 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/vanectro/public_html/admin/page/order/proses.php on line 70
+[05-Jun-2017 13:34:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/vanectro/public_html/admin/page/order/proses.php on line 70
+[05-Jun-2017 13:34:28 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/vanectro/public_html/admin/page/order/proses.php on line 65
+[05-Jun-2017 13:34:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/vanectro/public_html/admin/page/order/proses.php on line 65
